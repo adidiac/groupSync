@@ -7,7 +7,7 @@ const Section = styled.section`
   height: 100vh;
   background:
     linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
-    url('/bg/hero-bg.png') center center no-repeat;
+    url('${process.env.PUBLIC_URL}/bg/hero-bg.png') center center no-repeat;
   background-size: cover;
   display: flex;
   flex-direction: column;

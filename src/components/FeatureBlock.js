@@ -59,18 +59,19 @@ const Btn = styled.button`
 `;
 
 export default function FeatureBlock({ id, title, description, videoSrc }) {
+  const videoSrcFull = `${process.env.PUBLIC_URL}${videoSrc}`;
   return (
     <Section id={id}>
       <Content>
         <Title>{title}</Title>
         <Description>{description}</Description>
-        <Btn onClick={() => window.open(videoSrc, '_blank')}>
+        <Btn onClick={() => window.open(videoSrcFull, '_blank')}>
           Watch Full Demo
         </Btn>
       </Content>
       <Media>
         <Video
-          src={videoSrc}
+          src={videoSrcFull}
           autoPlay
           muted
           loop
