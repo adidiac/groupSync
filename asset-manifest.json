@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/groupSync/static/css/main.3abb889f.css",
+    "main.js": "/groupSync/static/js/main.82934ab0.js",
+    "index.html": "/groupSync/index.html",
+    "static/media/shape1.svg": "/groupSync/static/media/shape1.6dc53e83ef25835ccefd.svg",
+    "main.3abb889f.css.map": "/groupSync/static/css/main.3abb889f.css.map",
+    "main.82934ab0.js.map": "/groupSync/static/js/main.82934ab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3abb889f.css",
+    "static/js/main.82934ab0.js"
+  ]
+}

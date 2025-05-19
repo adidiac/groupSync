@@ -1,0 +1,4 @@
+<!-- src/assets/polygons/shape1.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <polygon points="0,100 75,0 225,0 300,100 225,200 75,200" fill="#1e88e5" opacity="0.2"></polygon>
+</svg>
