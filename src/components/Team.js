@@ -39,7 +39,7 @@ const Link = styled.a`
 
 const members = [
   { name:'Adrian Diac', role:'UI/UX Team Lead', img:'/team/adrian.jpeg', linkedin:'https://www.linkedin.com/in/adrian-diac-7381531a2/'},
-  { name:'Cristian Mitu', role:'Product Lead', img:'/team/bob.jpg', linkedin:'https://www.linkedin.com/in/cristian-mitu-abb27523a/'},
+  { name:'Cristian Mitu', role:'Product Lead', img:'/team/cristian.jpg', linkedin:'https://www.linkedin.com/in/cristian-mitu-abb27523a/'},
   { name:'Vlad Calomfirescu', role:'Tech Lead', img:'/team/vlad.jpeg', linkedin:'https://www.linkedin.com/in/vlad-calomfirescu-7abb7324b/'},
   { name:'Anda-Ioana Popa', role:'Marketing Lead', img:'/team/anda.jpeg', linkedin:'https://www.linkedin.com/in/anda-ioana-popa-448673228/'},
 ];
